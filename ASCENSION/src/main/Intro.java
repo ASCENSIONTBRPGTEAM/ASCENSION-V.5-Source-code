@@ -1,7 +1,7 @@
 package main;
 /*
  * This class is for the introduction of the game
- * It sets the 
+ * 
  */
 
 
@@ -56,7 +56,7 @@ class Intro {
 		String generalInput;
 		int gameStart = 1; //Declaring that the game is running
 		boolean watchUsage = true;
-		String companyName = "Bruh";
+		String companyName = "Avidity";
 		System.out.println("Welcome to ASCENSION!"); //Introduction
 		TimeUnit.SECONDS.sleep(2);		
 		System.out.println("Please enter your username! \n");
